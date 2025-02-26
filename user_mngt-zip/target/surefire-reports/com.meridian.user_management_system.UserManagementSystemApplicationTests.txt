@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.meridian.user_management_system.UserManagementSystemApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 19.78 s -- in com.meridian.user_management_system.UserManagementSystemApplicationTests
